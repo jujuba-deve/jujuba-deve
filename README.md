@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Adão
 
-Estudante de Engenharia de Software, em busca do meu primeiro estágio em desenvolvimento. Curioso por tecnologia, apaixonado por motos (dono de uma BMW S1000RR 🏍️) e aprendendo a construir coisas do zero — do HTML puro até projetos completos com deploy.
+Estudante de Engenharia de Software, em busca do meu primeiro estágio em desenvolvimento. Curioso por tecnologia, apaixonado por motos  e aprendendo a construir coisas do zero — do HTML puro até projetos completos com deploy.
 
 Sempre aprendendo, sempre evoluindo. 🚀
 
