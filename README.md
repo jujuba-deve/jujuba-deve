@@ -6,13 +6,13 @@ Sempre aprendendo, sempre evoluindo. 🚀
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 🛠️ Tecnologias que uso.
 
 ![HTML](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,nodejs)
 
 ---
 
-### 🚧 Aprendendo agora
+### 🚧 Aprendendo agora.
 
 ![Learning](https://skillicons.dev/icons?i=react,sql)
 
@@ -26,7 +26,7 @@ Sempre aprendendo, sempre evoluindo. 🚀
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jujuba-deve&show_icons=true&theme=tokyonight)
 
